@@ -1,5 +1,3 @@
 ### Hi 👋
 
-- 🌱 I’m currently learning Symfony 5, PHP 7,ReactJs, SASS, Jquery, JS ...
-- 💬 Ask me about Symfony,PHP,SASS, Jquery ...
-
+- I'm a developer js (react) full-stack
