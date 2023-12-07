@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I am currently working on a startup project with ReactJS, NodeJS, GraphQL, JavaScript<br>👯 I would like to collaborate with open-source projects that use JavaScript technologies | React | NodeJS<br>🤝 I'm looking for help using technologies like docker<br>🌱 I am now learning best practices for JavaScript, Docker and the different types of algorithm on the LeetCode platform.<br>💬 Ask me about React | GraphQL | NodeJS
+🔭 I am currently working on a project with ReactJS, NodeJS, GraphQL, JavaScript<br>👯 I would like to collaborate with open-source projects that use JavaScript technologies | React | NodeJS<br>🤝 I am now learning best practices for JavaScript, Docker and the different types of algorithm on the LeetCode platform.<br>💬 Ask me about React | GraphQL | NodeJS
 
 
 ## 🌐 Socials:
