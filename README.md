@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I am currently working on a project with ReactJS, NodeJS, GraphQL, JavaScript<br>👯 I would like to collaborate with open-source projects that use JavaScript technologies | React | NodeJS<br>🤝
+🔭 I am currently working on a project with ReactJS, NodeJS, GraphQL, JavaScript<br>👯🤝
 
 
 ## 🌐 Socials:
